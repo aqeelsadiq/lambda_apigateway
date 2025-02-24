@@ -43,7 +43,7 @@
 
 
 
-
+# script to schedule ec2 instance for 15 minutes if there is no job in queuee or in process instance will stopped
 # cat <<EOF > /home/ubuntu/self_stop.sh
 # #!/bin/bash
 
